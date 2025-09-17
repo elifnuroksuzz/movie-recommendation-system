@@ -83,9 +83,6 @@ Modelin temel performans ve davranış analizi:
 * ✅ **RMSE:** 1.0520
 * ✅ **MAE:** 0.8202
 
-* C:\Users\ekol\Desktop\movie_recommendation_system\results\figures\simple_analysis.png
-* C:\Users\ekol\Desktop\movie_recommendation_system\results\figures\data_analysis_overview.png
-
 ---
 
 ## 🎮 Demo Özellikleri
