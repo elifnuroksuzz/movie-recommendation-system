@@ -1,0 +1,12 @@
+{
+  "model_type": "collaborative_filtering",
+  "best_k": 30,
+  "global_mean": 3.52986,
+  "n_users": 943,
+  "n_movies": 1682,
+  "sparsity": 93.7,
+  "performance": {
+    "rmse": 1.052,
+    "mae": 0.8202
+  }
+}
